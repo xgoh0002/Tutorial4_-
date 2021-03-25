@@ -1,0 +1,8 @@
+---
+tittle: "Learning to reference figures, tables ad sections"
+author: "XUEQI GOH"
+date: "`r Sys.Date()`"
+output: 
+  bookdown::html_document2
+keep_md: yes
+---
