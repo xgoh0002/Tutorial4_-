@@ -4,5 +4,5 @@ author: "XUEQI GOH"
 date: "`r Sys.Date()`"
 output: 
   bookdown::html_document2
-keep_md: yes
+keep_md: true
 ---
